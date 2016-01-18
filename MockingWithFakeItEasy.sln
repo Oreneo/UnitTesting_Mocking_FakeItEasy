@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CashRegister", "CashRegister\CashRegister.csproj", "{98549331-9D68-4F48-9B93-80A458716F03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CashRegisterTests", "CashRegisterTests\CashRegisterTests.csproj", "{C5690960-2DB3-4DC0-8E5D-78F58E853355}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CashRegisterConsole", "CashRegisterConsole\CashRegisterConsole.csproj", "{5DD44D25-4B2F-49FB-8F1B-7E211D172C4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98549331-9D68-4F48-9B93-80A458716F03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98549331-9D68-4F48-9B93-80A458716F03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98549331-9D68-4F48-9B93-80A458716F03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98549331-9D68-4F48-9B93-80A458716F03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5690960-2DB3-4DC0-8E5D-78F58E853355}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5690960-2DB3-4DC0-8E5D-78F58E853355}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5690960-2DB3-4DC0-8E5D-78F58E853355}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5690960-2DB3-4DC0-8E5D-78F58E853355}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DD44D25-4B2F-49FB-8F1B-7E211D172C4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DD44D25-4B2F-49FB-8F1B-7E211D172C4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DD44D25-4B2F-49FB-8F1B-7E211D172C4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DD44D25-4B2F-49FB-8F1B-7E211D172C4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
